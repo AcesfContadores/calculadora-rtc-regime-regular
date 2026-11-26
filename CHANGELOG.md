@@ -5,6 +5,12 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 O formato é baseado em [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.1.0/),
 e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.7.3] - 2026-11-26
+
+### Modificado
+
+- Migração Flyway `V0074`: altera o fim de vigência de 30/11/2026 para 06/12/2026 e o início de 01/12/2026 para 07/12/2026 em `CLASSIF_NBS_INDOP_LC` e `INDICADOR_OPERACAO_IBS_CBS`
+
 ## [1.7.2] - 2026-11-18
 
 ### Corrigido
